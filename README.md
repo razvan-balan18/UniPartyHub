@@ -1,1 +1,1 @@
-# UniPartyHub
+# UniPartyHub - Hackathon Haufe
